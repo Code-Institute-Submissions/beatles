@@ -12,9 +12,20 @@
 
 /*--------------------------------------Heading */
 
-nav a img {
-    height: 200px;
+.nav-link {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 2rem;
 }
+
+/*----------------------------------------Section */
+
+#intro {
+    background-color: green;
+    margin-top: 8rem;
+}
+
+
 
 /*----------------------------------------Footer */
 
@@ -39,7 +50,5 @@ footer {
 
 .social-networks i {
   font-size: 200%;
-  margin: 2%;
-  padding: 3%;
   color: #ffffff;
 }
