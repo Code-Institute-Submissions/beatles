@@ -20,8 +20,11 @@
 
 /*----------------------------------------Section */
 
-#band-members {
+section {
     margin-top: 12rem;
+}
+
+#band-members {
     height: 600px;
 }
 
@@ -75,8 +78,8 @@ hr {
 }
 
 #circle-container {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   padding: 20px;
   border-style: solid;
   border-color: #cccccc;
@@ -121,7 +124,28 @@ hr {
     }
 }
 
+@media screen and (max-width: 943px) {
+    #band-members {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
 
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2 , .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p , .right-about-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+}
 
 
 
