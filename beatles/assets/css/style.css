@@ -156,9 +156,12 @@ hr {
 }
 
 .submit-button {
+    margin: auto;
     color: #676767;
     background-color: aqua; 
 }
+
+.btn {margin: auto}
 
 
 /*----------------------------------------Footer */
