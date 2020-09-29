@@ -64,12 +64,10 @@ section {
 }
 
 .submit-button {
-    margin: auto;
+    margin: 0 auto;
     color: #676767;
     background-color: aqua; 
 }
-
-.btn {margin: auto}
 
 .subheading {
     margin-top: 25px;
@@ -86,14 +84,19 @@ section {
     padding: 10px;
 }
 
+img .paul-george.img-fluid {
+    margin: 0 auto !important;
+}
+
 .paul-john {
     padding: 15px 0 10px 0;
 }
+
+
+
 .paul-george {
     max-height: 150px;
-    height: auto;
     border-radius: 25%;
-    margin: auto;
 }
 
 
