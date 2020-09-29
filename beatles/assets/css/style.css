@@ -13,11 +13,16 @@ h2 {
     margin: auto;
 }
 
+h3 {
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+}
+
 p {
     text-align: center;
     font-size: 15px;
     margin: auto;
-    padding: 20px;
 }
 
 
@@ -41,10 +46,12 @@ section {
 }
 
 #band-members {
-    height: 600px;
+    height: 700px;
 }
 
-
+#band-overview {
+    padding: 0 50px 0 50px;
+}
 
 #band-name {
   margin: 20px 0;
@@ -72,14 +79,21 @@ section {
 .band-info {
     border-radius: 25px;
     background-color: #fff;
+    padding: 15px;
 }
 
+.band-info-p {
+    padding: 10px;
+}
+
+.paul-john {
+    padding: 15px 0 10px 0;
+}
 .paul-george {
     max-height: 150px;
     height: auto;
-    margin: 20px 20px 20px 20px;
     border-radius: 25%;
-    float: right;
+    margin: auto;
 }
 
 
