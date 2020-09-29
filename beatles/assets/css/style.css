@@ -88,15 +88,16 @@ img .paul-george.img-fluid {
     margin: 0 auto !important;
 }
 
-.paul-john {
-    padding: 15px 0 10px 0;
+.pjgrrw {
+    padding: 20px 0 20px 0;
 }
 
 
 
-.paul-george {
+.pjgr {
     max-height: 150px;
     border-radius: 25%;
+    max-width: 150px;
 }
 
 
