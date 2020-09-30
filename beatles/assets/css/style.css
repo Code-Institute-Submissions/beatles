@@ -81,8 +81,8 @@ section {
 
 .submit-button {
     margin: 0 auto;
-    color: #676767;
-    background-color: aqua; 
+    color: #fff;
+    background-color: #29CF1E; 
 }
 
 .subheading {
@@ -98,6 +98,10 @@ section {
 
 .band-info-p {
     padding: 10px;
+}
+
+.frm-pad {
+    padding: 10px 0 10px 0;
 }
 
 img .paul-george.img-fluid {
