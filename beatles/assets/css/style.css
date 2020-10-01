@@ -61,6 +61,13 @@ section {
     background-color:#F5F5F5;
 }
 
+.subheading {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/*----------------------------------------Section Home Page */
+
 #band-overview {
     padding: 0 50px 0 50px;
 }
@@ -71,25 +78,6 @@ section {
   font-size: 280%;
 }
 
-#book-us-form {
-    padding: 15px 15px 0 15px;
-}
-
-.submit-button-rw {
-    padding: 20px 0 30px 0;
-}
-
-.submit-button {
-    margin: 0 auto;
-    color: #fff;
-    background-color: #29CF1E; 
-}
-
-.subheading {
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
 .band-info {
     border-radius: 25px;
     background-color: #fff;
@@ -98,10 +86,6 @@ section {
 
 .band-info-p {
     padding: 10px;
-}
-
-.frm-pad {
-    padding: 10px 0 10px 0;
 }
 
 .pjgrrw {
@@ -118,6 +102,9 @@ section {
     max-width: 150px;
 }
 
+
+/*----------------------------------------Section Discography Page */
+
 .album {
     padding: 15px 0 20px 0;
 }
@@ -128,12 +115,35 @@ section {
     max-width: 250px;
 }
 
+
+/*----------------------------------------Section Media Page */
+
 .lg-vid {
     padding: 46px 0 30px 0;
 }
 
 .sm-vid {
     padding: 30px 0 46px 0;
+}
+
+/*----------------------------------------Section Book Us Page */
+
+#book-us-form {
+    padding: 15px 15px 0 15px;
+}
+
+.submit-button-rw {
+    padding: 20px 0 30px 0;
+}
+
+.submit-button {
+    margin: 0 auto;
+    color: #fff;
+    background-color: #29CF1E; 
+}
+
+.frm-pad {
+    padding: 10px 0 10px 0;
 }
 
 
