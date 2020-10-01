@@ -1,35 +1,36 @@
-#The Beatles#
+# The Beatles
 
 The idea of this project was to create a website that is made by The Beatles, where you can find out information about the individuals and The Band.
 
 The user can look through the studio albums as well as book to see The Beatles live.
 
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## UX & Features
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+I wanted to create a very clean, minimalistic website that would allow users to easily find out information about The Beatles and their work.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+They can also book to see The Beatles by filling out the form and choosing a date on the Book Us Page.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+This website enables anyone, fan or not, to:
+* Find out information about the history of The Beatles and the members themselves
+* Discover what studio albums were made by the band while showcasing their album artwork
+* Search through more history of the albums through links to each individual wiki page
+* Listen to their music and watch their music videos via the Media page
+* Follow The Beatles more closely by providing links to their social media (Facebook, Twitter, Youtube, Instagram)
+* Book to see the Beatles live by filling out the forms on the Book Us page
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+This website does all this in one easily accessabile place. 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+There is no visual clutter to ensure that the user can access all the information they need in a clear, concise way.
 
-Features Left to Implement
-Another feature idea
-Technologies Used
+
+## Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
 The project uses JQuery to simplify DOM manipulation.
-Testing
+
+
+## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -47,7 +48,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
+## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -57,7 +58,7 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
+## Credits
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
