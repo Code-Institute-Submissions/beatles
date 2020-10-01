@@ -122,6 +122,30 @@ section {
     padding: 46px 0 30px 0;
 }
 
+.lgsize {
+    width:784px;
+    height: 441px;
+}
+
+.smsize {
+    width:560px;
+    height:315px;
+}
+
+@media screen and (max-width:943px){
+    .lgsize {
+        width:560px;
+        height: 315px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .lgsize, .smsize {
+        width:336px;
+        height: 189px;
+    }
+}
+
 .sm-vid {
     padding: 30px 0 46px 0;
 }
