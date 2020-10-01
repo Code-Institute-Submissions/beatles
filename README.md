@@ -27,15 +27,41 @@ There is no visual clutter to ensure that the user can access all the informatio
 
 [**JQuery**](https://jquery.com/)
 
-The project uses JQuery for NavBarDropdown which is apllied on smaller devices.
+The project uses JQuery for NavBarDropdown which is applied on smaller devices.
 
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+1. Navigational bar
+    * Click The Beatles Logo in the top left to make sure it takes you to the home page.
+    * Try this on every single device size.
+    * Click on every option (Home, Discography, Media, Book Us) in the navbar menu on every screen size to make sure they work.
+    * Do this step from each individual page.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+2. Footer
+    * On the home page click every social media link to ensure it opens a new window and takes you the the relevant site for The Beatles.
+    * Try this on every single device size.
+    * Do this step from each individual page.
+
+3. Discography Page
+    * Click on every album cover to see if it takes you to the right Wikipedia page.
+    * Click on every album title to see if it takes you to the right Wikipedia page.
+    * Repeat these steps on every device size.
+
+4. Media page
+    * Click play on each video to ensure the video and audio are working as intended.
+    * Repeat this for each device size.
+
+5. Book Us Page
+    * Try to submit the empty form and verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+
+
+
 
 Contact form:
 Go to the "Contact Us" page
