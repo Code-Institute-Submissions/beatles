@@ -1,5 +1,5 @@
 
-<h1>The Beatles Website</h1>
+<h1 align="center">The Beatles Website</h1>
 
 [View the live project here.](https://sykez12.github.io/beatles/)
 
@@ -77,7 +77,7 @@ The user can look through the studio albums, listen to their music, as well as b
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/sykez12/beatles/blob/3cad1de92696c90e9fc4ddd50f7e521ef1b67784/Documentation/Markup.png)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/sykez12/beatles/blob/43cda5c9753de04208c9deb8aec46ee34590676a/Documentation/CSSValidation.png)
 
 ### Testing User Stories from User Experience (UX) Section
