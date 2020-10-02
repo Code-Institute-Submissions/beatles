@@ -42,6 +42,11 @@ The user can look through the studio albums as well as book to see The Beatles l
 -   Responsive on all device sizes
 
 -   Interactive elements
+    -   Social media links
+    -   Wikipedia links on the Discography page
+    -   Youtube videos on the Media page
+
+-   Form submission to see The Beatles live.
 
 ## Technologies Used
 
@@ -72,61 +77,80 @@ The user can look through the studio albums as well as book to see The Beatles l
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/sykez12/beatles/blob/9cf1dad827c7c357e7934560ec3a7c61ccf65ec3/Documentation/CSSValidation.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a First Time Visitor, I want to find out information about The Beatles and the individual members.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+        1. Upon entering the site, users are immediately greeted with a clean home page that tells them some history about the Band's origins and their influence on the world of music.
+        2. Beneath the band information, users can read a little bit about each band member's role within the group and the songs that were attributed to them.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        1. The site has been designed to be minimalistic and devoid of clutter so that the user can navigate easily through it.
+        2. The navigation bar is fixed to ensure that users will never lose sight of how to move around within the website.
+        3. The dropdown Navigational bar on smaller devices enables a tidier Nav bar for the user.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+    3. As a First Time Visitor, I want to learn about their albums and listen to their music.
+        1. The discography page shows the user all of the Studio albums made by The Beatles and the album artwork used for them.
+        2. By clicking on the album artwork or title the user can learn endless information about said album though the wikipedia page that opens in a new tab.
+        3. The Media page provides five music videos displaying the wide range of music The Beatles were famous for.
 
 -   #### Returning Visitor/Fan Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor/Fan, I want access to their discography and music in one clean place.
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        1. The discography page provides all 12 Studio Album artworks and links to their wikipedia pages in one place.
+        2. The Media page provides youtube videos of The Beatles that can be watched/listened to. More videos of their catalogue could be uploaded.
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. As a Returning Visitor/Fan, I want access to all of The Beatles Social Media sites from one location.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+        1. The website provides fans with a 'favourite' page that has links to every Beatles social media site.
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
+    3. As a Returning Visitor/Fan, I want to book to see my favourite band live!
+        1. The user can easily book to see the band live by completing the forms on the Book Us Page and selecting a date.
+        2. Currently, if all forms have been completed correctly, the page will refresh once the form has been submitted. This is due to the fact that no javascript has been used because of the guidelines of this project. No Method has entered as part of the form.
 ### Further Testing
+
+1. Navigational bar
+    * Click The Beatles Logo in the top left to make sure it takes you to the home page.
+    * Try this on every single device size.
+    * Click on every option (Home, Discography, Media, Book Us) in the navbar menu on every screen size to make sure they work.
+    * Do this step from each individual page.
+
+2. Footer
+    * On the home page click every social media link to ensure it opens a new window and takes you the the relevant site for The Beatles.
+    * Try this on every single device size.
+    * Do this step from each individual page.
+
+3. Discography Page
+    * Click on every album cover to see if it takes you to the right Wikipedia page.
+    * Click on every album title to see if it takes you to the right Wikipedia page.
+    * Repeat these steps on every device size.
+
+4. Media page
+    * Click play on each video to ensure the video and audio are working as intended.
+    * Repeat this for each device size.
+
+5. Book Us Page
+    * Try to submit the empty form and verify that an error message about the required fields appears.
+    * Try to submit the form with only a first name to verify that an error message about the required fields appears.
+    * Do this for each input to ensure that validation is working correctly.
+    * Repeat until submission works. This will be shown by the refreshing of the page due to the fact no javascript was used in the form.
+    * Do this for all device sizes.
+
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was tested on Laptop, Desktop, Ipad, GalaxyS5, OnePlus6.
--   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   The Media page can take several seconds to load due to the number of iframes on the page.
+-   The videos on the media page do not flow as smoothly as intended with the reduction in screen size.
 
 ## Deployment
 
@@ -145,13 +169,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/sykez12/beatles)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/sykez12/beatles)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -179,11 +203,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
 ### Content
 
@@ -191,11 +213,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were taken from Google images.
+
+-   All videos were taken from youtube.com.
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor Aaron for his continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
 
