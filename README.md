@@ -22,17 +22,16 @@ The user can look through the studio albums as well as book to see The Beatles l
 
     -   #### Returning Visitor/Fan Goals
 
-        1. As a Returning Visitor/Fan, I want to 
-        2. As a Returning Visitor/Fan, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor/Fan, I want to find community links.
+        1. As a Returning Visitor/Fan, I want access to their discography and music in one clean place.
+        2. As a Returning Visitor/Fan, I want access to all of The Beatles Social Media sites from one location.
+        3. As a Returning Visitor/Fan, I want to book to see my favourite band live!
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   Black, White, and Grey were used for a very clean, minimalistic look that would clash with the multitude of colours from the album covers.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   The Beatles Logo itself acts as the Home button and fits in very well with the colour scheme.
+        -   All four of the headshots on the home page were chosen for their consistency. The Beatles are all of similar age and it gives the impression that they are available to be booked.
 
 *   ### Wireframes
 
@@ -56,9 +55,9 @@ The user can look through the studio albums as well as book to see The Beatles l
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import Roboto and Exo.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    - Font Awesome was used for the social media icons as seen on the footer of each page.
 1. [jQuery:](https://jquery.com/)
     - jQuery was used NavBarDropdown seen on smaller devices.
 1. [Git](https://git-scm.com/)
