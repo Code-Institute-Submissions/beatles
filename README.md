@@ -1,11 +1,13 @@
 
 <h1 align="center">The Beatles Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://sykez12.github.io/beatles/)
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="https://github.com/sykez12/beatles/blob/4fa89e67b1eccb587105c76dba61f19998765a64/Documentation/amiresponsivebeatles.png"></h2>
+
+
+<img src="https://github.com/sykez12/beatles/blob/a4b13fb29759178925693f71149ea6ade09a0024/Documentation/amiresponsivebeatles.png">
 
 ## User Experience (UX)
 
@@ -61,8 +63,6 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
@@ -73,10 +73,8 @@ This is the main marketing website for Code Institute. It is designed to be resp
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the [wireframes](https://github.com/sykez12/beatles/blob/a4b13fb29759178925693f71149ea6ade09a0024/Documentation/Wireframes/New%20Project%201.pdf) during the design process.
 
 ## Testing
 
