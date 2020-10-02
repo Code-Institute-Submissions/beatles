@@ -3,8 +3,9 @@
 
 [View the live project here.](https://sykez12.github.io/beatles/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+The idea of this project was to create a website that is made by The Beatles, where you can find out information about the individuals and The Band.
 
+The user can look through the studio albums as well as book to see The Beatles live.
 
 
 <img src="https://github.com/sykez12/beatles/blob/a4b13fb29759178925693f71149ea6ade09a0024/Documentation/amiresponsivebeatles.png">
@@ -15,20 +16,15 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        1. As a First Time Visitor, I want to find out information about The Beatles and the individual members.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        3. As a First Time Visitor, I want to learn about their albums and listen to their music.
 
-    -   #### Returning Visitor Goals
+    -   #### Returning Visitor/Fan Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
-
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. As a Returning Visitor/Fan, I want to 
+        2. As a Returning Visitor/Fan, I want to find the best way to get in contact with the organisation with any questions I may have.
+        3. As a Returning Visitor/Fan, I want to find community links.
 
 -   ### Design
     -   #### Colour Scheme
@@ -40,11 +36,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Wireframes for all devices - [View](https://github.com/sykez12/beatles/blob/a4b13fb29759178925693f71149ea6ade09a0024/Documentation/Wireframes/New%20Project%201.pdf)
 
 ## Features
 
@@ -68,7 +60,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    - jQuery was used NavBarDropdown seen on smaller devices.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -104,7 +96,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
         3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
 
--   #### Returning Visitor Goals
+-   #### Returning Visitor/Fan Goals
 
     1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
 
@@ -124,25 +116,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
         3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
 
--   #### Frequent User Goals
-
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
-
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
-
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The website was tested on Laptop, Desktop, Ipad, GalaxyS5, OnePlus6.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -158,13 +135,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/sykez12/beatles)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://sykez12.github.io/beatles/) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
@@ -214,8 +190,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
-
 ### Media
 
 -   All Images were created by the developer.
@@ -225,23 +199,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
-0 comments on commit 982e3b0
-@sykez12
- 
- 
-Leave a comment
 
-Attach files by dragging & dropping, selecting or pasting them.
- You’re not receiving notifications from this thread.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
