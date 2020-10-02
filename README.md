@@ -1,5 +1,8 @@
 # The Beatles
 
+
+ <h2 align="center"><img src="http://ami.responsivedesign.is/?url=https%3A%2F%2Fsykez12.github.io%2Fbeatles%2F#.png"></h2>
+
 The idea of this project was to create a website that is made by The Beatles, where you can find out information about the individuals and The Band.
 
 The user can look through the studio albums as well as book to see The Beatles live.
