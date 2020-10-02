@@ -5,7 +5,7 @@
 
 The idea of this project was to create a website that is made by The Beatles, where you can find out information about the individuals and The Band.
 
-The user can look through the studio albums as well as book to see The Beatles live.
+The user can look through the studio albums, listen to their music, as well as book to see The Beatles live.
 
 
 <img src="https://github.com/sykez12/beatles/blob/a4b13fb29759178925693f71149ea6ade09a0024/Documentation/amiresponsivebeatles.png">
@@ -183,13 +183,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/sykez12/beatles
 ```
 
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/sykez12/beatles
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
